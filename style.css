@@ -1,0 +1,18 @@
+.red {
+  color: red;
+}
+
+.big {
+  color: aqua;
+}
+
+body {
+  text-align: center;
+  overflow: hidden;
+}
+
+.title {
+  font-family: serif;
+  padding: 30px;
+  font-size: 50px;
+}
